@@ -5,7 +5,7 @@ import ReactDOM from "react-dom/client";
 // const heading = React.createElement("h1", { id: "heading" }, "namaste react🦋");
 // console.log(heading);
 
-//React Element
+//React element
 const heading = (
   <h1 id="heading" tabIndex="5">
     this is a react element 🦋
